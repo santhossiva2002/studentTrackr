@@ -13,7 +13,7 @@ import { AuthProvider } from "@/hooks/useAuth"
 function Router() {
   return (
     <Switch>
-      <Route path="/" component={Dashboard} />
+      <Route path="/studenttrackr" component={Dashboard} />
       <Route path="/students" component={Students} />
       <Route path="/students/:id" component={StudentDetail} />
       <Route path="/courses" component={Courses} />
