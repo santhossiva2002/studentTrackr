@@ -14,7 +14,7 @@ export function Sidebar({ className }) {
   const links = [
     {
       name: "Dashboard",
-      href: "/",
+      href: "/studenttrackr",
       icon: LayoutDashboard
     },
     {

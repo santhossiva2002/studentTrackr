@@ -8,7 +8,7 @@ export function MobileNav() {
   const links = [
     {
       name: "Dashboard",
-      href: "/",
+      href: "/studenttrackr",
       icon: LayoutDashboard
     },
     {
