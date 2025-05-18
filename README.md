@@ -6,7 +6,7 @@
 
 StudentTrackr is a modern, responsive web application built with React that provides an intuitive dashboard for managing student information, course enrollments, and academic performance tracking. This project showcases my frontend development skills using modern React patterns and UI design principles.
 
-[Live Demo](https://studenttrackr.yourdomain.com) 
+Live Demo - https://santhossiva2002.github.io/studenttrackr/
 
 ## ✨ Features
 
